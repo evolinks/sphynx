@@ -4,6 +4,9 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/jam-commerce/sphynx/actions/workflows/lint.yml">
+    <img src="https://github.com/jam-commerce/sphynx/actions/workflows/lint.yml/badge.svg" />
+  </a>
   <a href="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml">
     <img src="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml/badge.svg" />
   </a>
