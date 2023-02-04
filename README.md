@@ -29,11 +29,10 @@
     <img src="https://img.shields.io/npm/l/sphynx-sdk.svg" alt="License" />
   </a>
   <a href="https://openbase.com/js/sphynx-sdk?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge">
-    <img src="https://badges.openbase.com/js/featured/sphynx-sdk.svg?" alt="License" />
+    <img src="https://badges.openbase.com/js/featured/sphynx-sdk.svg?token=D2vzaspWFJHbUX+JpGNC2+LboMsgppPxHKgKSKIylf0=" alt="openbase" />
   </a>
   <br>
 </p>
-
 
 ## Documentation
 
