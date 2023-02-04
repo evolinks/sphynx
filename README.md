@@ -19,20 +19,17 @@
   <a href="">
     <img src="https://img.shields.io/github/repo-size/evolinks/sphynx"/>
   </a>
-  <a href="https://www.npmjs.com/package/sphynx">
-    <img src="https://img.shields.io/npm/v/sphynx.svg" alt="Version" />
+  <a href="https://www.npmjs.com/package/sphynx-sdk">
+    <img src="https://img.shields.io/npm/v/sphynx-sdk.svg" alt="Version" />
   </a>
-  <a href="https://www.npmjs.com/package/sphynx">
-    <img src="https://img.shields.io/npm/dw/sphynx" alt="Downloads/week" />
-  </a>
-    <a href="https://github.com/evolinks/sphynx/blob/main/package.json">
-    <img src="https://img.shields.io/npm/l/sphynx.svg" alt="License" />
+  <a href="https://www.npmjs.com/package/sphynx-sdk">
+    <img src="https://img.shields.io/npm/dw/sphynx-sdk" alt="Downloads/week" />
   </a>
    <a href="https://github.com/evolinks/sphynx/blob/main/package.json">
-    <img src="https://img.shields.io/npm/l/sphynx.svg" alt="License" />
+    <img src="https://img.shields.io/npm/l/sphynx-sdk.svg" alt="License" />
   </a>
-  <a href="https://openbase.com/js/sphynx?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge">
-    <img src="https://badges.openbase.com/js/featured/sphynx.svg?" alt="License" />
+  <a href="https://openbase.com/js/sphynx-sdk?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge">
+    <img src="https://badges.openbase.com/js/featured/sphynx-sdk.svg?" alt="License" />
   </a>
   <br>
 </p>
