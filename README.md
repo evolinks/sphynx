@@ -4,20 +4,20 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/jam-commerce/sphynx/actions/workflows/lint.yml">
-    <img src="https://github.com/jam-commerce/sphynx/actions/workflows/lint.yml/badge.svg" />
+  <a href="https://github.com/evolinks/sphynx/actions/workflows/lint.yml">
+    <img src="https://github.com/evolinks/sphynx/actions/workflows/lint.yml/badge.svg" />
   </a>
-  <a href="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml">
-    <img src="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml/badge.svg" />
+  <a href="https://github.com/evolinks/sphynx/actions/workflows/prettier.yml">
+    <img src="https://github.com/evolinks/sphynx/actions/workflows/prettier.yml/badge.svg" />
   </a>
-  <a href="https://github.com/jam-commerce/sphynx/actions/workflows/snyk.yml">
-    <img src="https://github.com/jam-commerce/sphynx/actions/workflows/snyk.yml/badge.svg" />
+  <a href="https://github.com/evolinks/sphynx/actions/workflows/snyk.yml">
+    <img src="https://github.com/evolinks/sphynx/actions/workflows/snyk.yml/badge.svg" />
   </a>
-  <a href="https://github.com/jam-commerce/sphynx/actions/workflows/codeql.yml">
-    <img src="https://github.com/jam-commerce/sphynx/actions/workflows/codeql.yml/badge.svg?branch=main" />
+  <a href="https://github.com/evolinks/sphynx/actions/workflows/codeql.yml">
+    <img src="https://github.com/evolinks/sphynx/actions/workflows/codeql.yml/badge.svg?branch=main" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/repo-size/jam-commerce/sphynx"/>
+    <img src="https://img.shields.io/github/repo-size/evolinks/sphynx"/>
   </a>
   <a href="https://www.npmjs.com/package/sphynx">
     <img src="https://img.shields.io/npm/v/sphynx.svg" alt="Version" />
@@ -25,10 +25,10 @@
   <a href="https://www.npmjs.com/package/sphynx">
     <img src="https://img.shields.io/npm/dw/sphynx" alt="Downloads/week" />
   </a>
-    <a href="https://github.com/jam-commerce/sphynx/blob/main/package.json">
+    <a href="https://github.com/evolinks/sphynx/blob/main/package.json">
     <img src="https://img.shields.io/npm/l/sphynx.svg" alt="License" />
   </a>
-   <a href="https://github.com/jam-commerce/sphynx/blob/main/package.json">
+   <a href="https://github.com/evolinks/sphynx/blob/main/package.json">
     <img src="https://img.shields.io/npm/l/sphynx.svg" alt="License" />
   </a>
   <a href="https://openbase.com/js/sphynx?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge">
@@ -40,4 +40,4 @@
 
 ## Documentation
 
-See the [documentation webpage](https://github.com/jam-commerce/sphynx).
+See the [documentation webpage](https://github.com/evolinks/sphynx).

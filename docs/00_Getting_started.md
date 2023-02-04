@@ -36,14 +36,14 @@ directory for your project, navigate into your project's root folder in your ter
 the following:
 
 ```bash
-npm install @jam-commerce/sphynx
+npm install @evolinks/sphynx
 # or
-yarn add @jam-commerce/sphynx
+yarn add @evolinks/sphynx
 ```
 
 <div class="highlight highlight--note">
     <span>Note</span>
-    <p>Note that examples provided using the sphynx SDK are using the latest version - available on <a href="https://www.npmjs.com/package/@jam-commerce/sphynx">npm</a>.</p>
+    <p>Note that examples provided using the sphynx SDK are using the latest version - available on <a href="https://www.npmjs.com/package/@evolinks/sphynx">npm</a>.</p>
 </div>
 
 ### Instantiate sphynx with your API key
@@ -59,7 +59,7 @@ Developer](#/settings/developer)).
 
 ```js
 // Import the sphynx module
-import sphynx from '@jam-commerce/sphynx';
+import sphynx from '@evolinks/sphynx';
 
 // Create a sphynx instance
 const sphynx = new sphynx('{public_api_key}');

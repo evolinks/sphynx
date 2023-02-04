@@ -2,7 +2,7 @@
   "name": "sphynx",
   "version": "0.0.0",
   "description": "Fast, powerful, and easy to use JavaScript SDK for building and managing carts, checkouts and receipts for your e-commerce front-end.",
-  "homepage": "https://github.com/jam-commerce/sphynx#readme",
+  "homepage": "https://github.com/evolinks/sphynx#readme",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -22,18 +22,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jam-commerce/sphynx.git"
+    "url": "git+https://github.com/evolinks/sphynx.git"
   },
-  "author": "jam-commerce",
+  "author": "evolinks",
   "license": "BSD 3-Clause License",
   "bugs": {
-    "url": "https://github.com/jam-commerce/sphynx/issues"
+    "url": "https://github.com/evolinks/sphynx/issues"
   },
   "keywords": [
     "sphynx",
     "sphynx-sdk",
     "sdk",
-    "jam-commerce-commerce",
+    "evolinks-commerce",
     "headless-ecommerce-sdk"
   ],
   "devDependencies": {

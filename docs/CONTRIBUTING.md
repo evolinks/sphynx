@@ -4,11 +4,11 @@
 
 ## :question: Got a Question?
 
-If you have a question about using sphynx SDK, please use the [mailing list](https://groups.google.com/group/jam-commerce), [StackOverflow](https://stackoverflow.com), or ask the friendly people in our [chat room](https://gitter.im/jam-commerce/sphynx).
+If you have a question about using sphynx SDK, please use the [mailing list](https://groups.google.com/group/evolinks), [StackOverflow](https://stackoverflow.com), or ask the friendly people in our [chat room](https://gitter.im/evolinks/sphynx).
 
 ## :bug: I Found a Bug
 
-Sorry! It happens to the best of us. If you've found a bug in sphynx SDK, **please [search](https://github.com/jam-commerce/sphynx/issues/) to see if it's already been reported**. Otherwise, create a [new issue](https://github.com/jam-commerce/sphynx/issues/new). If you can fix the bug yourself, feel free to create a [pull request](#propose-a-change) thereafter.
+Sorry! It happens to the best of us. If you've found a bug in sphynx SDK, **please [search](https://github.com/evolinks/sphynx/issues/) to see if it's already been reported**. Otherwise, create a [new issue](https://github.com/evolinks/sphynx/issues/new). If you can fix the bug yourself, feel free to create a [pull request](#propose-a-change) thereafter.
 
 Please include _as much detail as possible_ to help us reproduce and diagnose the bug. Most importantly:
 
@@ -19,7 +19,7 @@ If we need more information from you, we'll let you know. If you don't within a 
 
 ## :exclamation: Propose a Change
 
-Before you get your hands dirty, please [search](https://github.com/jam-commerce/sphynx/issues/) for a related issue, or [create a new one](https://github.com/jam-commerce/sphynx/issues/new). If you wish to contribute a new feature, this is doubly important! Let's discuss your proposed changes first; we don't want you to waste time implementing a change that is at odds with the project's direction. That said, we'll happily consider any contribution, no matter how great or small.
+Before you get your hands dirty, please [search](https://github.com/evolinks/sphynx/issues/) for a related issue, or [create a new one](https://github.com/evolinks/sphynx/issues/new). If you wish to contribute a new feature, this is doubly important! Let's discuss your proposed changes first; we don't want you to waste time implementing a change that is at odds with the project's direction. That said, we'll happily consider any contribution, no matter how great or small.
 
 _This paragraph would contain information about sphynx SDK roadmap, but it doesn't yet exist._ :poop:
 
@@ -43,7 +43,7 @@ Follow these steps to get going. If you are having trouble, don't be afraid to [
    - Some optional dependencies may fail; you can safely ignore these unless you are trying to build the documentation.
    - If you're sick of seeing the failures, run `npm install --ignore-scripts`.
 
-Join us in the [contributors' chat](https://gitter.im/jam-commerce/contributors)!
+Join us in the [contributors' chat](https://gitter.im/evolinks/contributors)!
 
 ## :angel: I Just Want To Help
 
