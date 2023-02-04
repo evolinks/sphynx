@@ -1,8 +1,8 @@
-<h2 align="center">Sphynx</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80452137/216784697-85c3221c-7532-4703-b285-ee74aba99c7b.svg" alt="Sphynx" height="350" />
+  <p>Fast, powerful, and easy to use JavaScript SDK for building <br /> and managing carts, checkouts and receipts for your e-commerce front-end. </p>
+</div>
 
-<p align="center">
-Fast, powerful, and easy to use JavaScript SDK for building and managing carts, checkouts and receipts for your e-commerce front-end. 
-</p>
 <p align="center">
   <a href="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml">
     <img src="https://github.com/jam-commerce/sphynx/actions/workflows/prettier.yml/badge.svg" />
